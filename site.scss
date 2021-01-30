@@ -1,0 +1,44 @@
+
+
+.navigacija
+{display: flex;flex-direction: row;margin: auto;background-color: aqua}
+
+.logo
+{width: 200px;text-align: center}
+    
+.linkovi
+{font-size: 40px;margin: auto;word-spacing: 25px;}
+
+.uvod
+{display: flex;flex-direction: row}
+
+.bocnal
+{display: flex;flex-direction: column;width: 220px;position: static;}
+
+.onama
+{width: 800px;color: white;position: static;font-size: 32px;padding: 20px;align-content: center;margin: auto;}
+
+
+.bocnar
+{display: flex;flex-direction: column;width: 220px;position: static}
+
+.rostilj
+{display: flex;flex-direction: row;}
+
+.bbq
+{width: 800px;color: white;position: static;column-count: 2;padding: 10px;align-content: center;margin: auto;font-size: 25px;text-align: center;}
+
+h1,#slike
+{text-align: center;padding: 5px;align-content: space-around}
+
+#jelovnik
+{border: 2px solid black;width: 70%;margin: auto;height: 200px;font-size: 20px;text-align: center;border-collapse: collapse;color: black;background-color: silver}
+
+.bbq,.onama
+{background-color: black}
+    
+
+
+
+    
+    
